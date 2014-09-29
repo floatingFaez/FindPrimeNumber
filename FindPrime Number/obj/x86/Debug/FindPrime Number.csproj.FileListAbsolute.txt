@@ -1,0 +1,4 @@
+c:\users\sifat rahman\documents\visual studio 2010\Projects\FindPrime Number\FindPrime Number\bin\Debug\FindPrime Number.exe
+c:\users\sifat rahman\documents\visual studio 2010\Projects\FindPrime Number\FindPrime Number\bin\Debug\FindPrime Number.pdb
+c:\users\sifat rahman\documents\visual studio 2010\Projects\FindPrime Number\FindPrime Number\obj\x86\Debug\FindPrime Number.exe
+c:\users\sifat rahman\documents\visual studio 2010\Projects\FindPrime Number\FindPrime Number\obj\x86\Debug\FindPrime Number.pdb
